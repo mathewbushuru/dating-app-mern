@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dating-app-mern/static/css/main.673798a1.chunk.css",
+    "main.js": "/dating-app-mern/static/js/main.e2f368b1.chunk.js",
+    "main.js.map": "/dating-app-mern/static/js/main.e2f368b1.chunk.js.map",
+    "runtime-main.js": "/dating-app-mern/static/js/runtime-main.d4f2ce89.js",
+    "runtime-main.js.map": "/dating-app-mern/static/js/runtime-main.d4f2ce89.js.map",
+    "static/js/2.94be879a.chunk.js": "/dating-app-mern/static/js/2.94be879a.chunk.js",
+    "static/js/2.94be879a.chunk.js.map": "/dating-app-mern/static/js/2.94be879a.chunk.js.map",
+    "index.html": "/dating-app-mern/index.html",
+    "static/css/main.673798a1.chunk.css.map": "/dating-app-mern/static/css/main.673798a1.chunk.css.map",
+    "static/js/2.94be879a.chunk.js.LICENSE.txt": "/dating-app-mern/static/js/2.94be879a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4f2ce89.js",
+    "static/js/2.94be879a.chunk.js",
+    "static/css/main.673798a1.chunk.css",
+    "static/js/main.e2f368b1.chunk.js"
+  ]
+}
