@@ -3,7 +3,7 @@ import DatingCard from 'react-tinder-card'
 
 import './DatingCards.css'
 
-//in the people state variable, we will store the name and images of four people
+//in the people state variable, we will store the name and images of four people fvgfg
 const DatingCards = () => {
 
     const [people,setPeople] = useState([
